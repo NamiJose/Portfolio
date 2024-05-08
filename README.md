@@ -1,4 +1,10 @@
-Sales Story: Revealing Insights is a sample sales dashboard created using data obtained from kaggle. 
+This folder contains the following files:
+1. Classification Tool for Chemical Analysis: This is the report created using R after exploratory data analysis and evaluating multiple models for classifying chemicals and predicting the category to which it belongs based on the important features.
+2. Predicting Diabetes from Silent Symptoms: This is a report created after data processing, exploratory analysis, model selection and  prediction using python to detect diabetes based on early symptoms without medical intervention.
+3. Sales Insights..png: The power bi dashboard screenshot
+4.  Sales Dashboard: A sample power bi report (pbix file) created using sales data.
+
+Sales Dashboard is a sample power bi dashboard created using data obtained from kaggle. 
 Main Steps Followed:
 1. Analysed the raw data and identified key metrics
      1. There are two input files, one for 2023 data and another for 2024 data with same structure.
